@@ -45,7 +45,7 @@ def main_apv():
         os.system("clear")
         print logo
         print ("You dont have subscrption")
-        print ("Hello Dear Ya Cammonds Paid Han Or Ap Ke Subscription Nhi Ha Please Ap Admin Sa Rabta Kran Thanks")
+        print ("Hello Dear Ya Cammonds Paid Han Or Ap Ke Subscription Nhi Ha Please Ap Admin MAHDI HASAN SHUVO Thanks")
         print (" Subscription Kelya Enter Press Kro Or Whatsapp Pa Rabta Kro Thanks")
         myid=uuid.uuid4().hex[:8]
         print ("Your key : "+MYID+IMT)
